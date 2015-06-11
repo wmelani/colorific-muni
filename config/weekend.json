@@ -1,0 +1,10 @@
+{
+  "agency" : "sf-muni",
+  "routes" : [
+    {
+      "name" : "30",
+      "startStop" : "3948"
+    }],
+  "colorificId" : "B4:99:4C:64:85:DB",
+  "startScript" : "sudo hciconfig hci0 up"
+}
